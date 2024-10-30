@@ -1,0 +1,9 @@
+# Build directory
+build/
+
+# Makefiles
+Makefile
+**.make
+
+# My utility scripts
+**.bat
